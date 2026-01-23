@@ -16,30 +16,13 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const sef = {
-    pronouns: "he/him",
-    code: ["JavaScript", "PHP", "HTML", "CSS"],
-    technologies: {
-        frontend: ["React", "HTML5", "CSS3", "JavaScript"],
-        backend: ["Laravel", "PHP"],
-        databases: ["MySQL"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-    currentFocus: "Building full-stack web applications",
-    funFact: "I debug with console.log() and I'm not ashamed 😄"
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 - 🔭 Currently working on **academic and personal web projects**
 - 🌱 Learning **React, Laravel, and database optimization**
 - 💡 Interested in **frontend & backend development**
+- 💻 Building with **JavaScript, PHP, HTML, CSS**
 - 🎯 Goal: Build impactful web solutions that solve real problems
 - ⚡ Always **learning, experimenting, and building**
-
-<br clear="right"/>
+- 😄 Fun fact: I debug with console.log() and I'm not ashamed
 
 ---
 
