@@ -59,8 +59,10 @@
 
 ---
 
-## 📫 Let's Connect
-- GitHub: **@Sefffzxc**
-- Open to collaborations & learning opportunities
+## 📫 Contact & Links
+- 📧 Email: [macosefrowinston@gmail.com](mailto:macosefrowinston@gmail.com)
+- 📄 Resume: [https://resumenisef.netlify.app/](https://resumenisef.netlify.app/)
+- 📸 Instagram: [@sefwompwomp](https://www.instagram.com/sefwompwomp)
+- 💻 GitHub: [@Sefffzxc](https://github.com/Sefffzxc)
 
 ✨ *Always learning, always building.*
