@@ -59,10 +59,27 @@
 
 ---
 
-## 📫 Contact & Links
-- 📧 Email: [macosefrowinston@gmail.com](mailto:macosefrowinston@gmail.com)
-- 📄 Resume: [https://resumenisef.netlify.app/](https://resumenisef.netlify.app/)
-- 📸 Instagram: [@sefwompwomp](https://www.instagram.com/sefwompwomp)
-- 💻 GitHub: [@Sefffzxc](https://github.com/Sefffzxc)
+## 📫 Connect with Me
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="20" />
+  <a href="mailto:macosefrowinston@gmail.com">macosefrowinston@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+  <a href="https://www.linkedin.com/in/sef-rowinston-maco-5b81073a4">LinkedIn</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" />
+  <a href="https://www.instagram.com/sefwompwomp">Instagram</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
+  <a href="https://resumenisef.netlify.app/">Resume</a>
+</p>
+c)
 
 ✨ *Always learning, always building.*
