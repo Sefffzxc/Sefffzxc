@@ -111,6 +111,10 @@ Exploring new ideas and building experimental projects to sharpen my skills.
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sefffzxc&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sefffzxc&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
